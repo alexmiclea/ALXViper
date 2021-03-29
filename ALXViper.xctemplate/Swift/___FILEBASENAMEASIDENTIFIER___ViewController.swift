@@ -2,7 +2,7 @@ import UIKit
 
 // MARK: - ___VARIABLE_viperModuleName___ViewController
 
-class ___VARIABLE_viperModuleName___ViewController: MojiViewController {
+class ___VARIABLE_viperModuleName___ViewController: UIViewController {
 
     // MARK: - Properties
 
