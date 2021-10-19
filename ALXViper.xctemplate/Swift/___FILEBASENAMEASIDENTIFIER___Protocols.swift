@@ -1,8 +1,8 @@
-import Foundation
+import UIKit
 
 // MARK: - View Output (Presenter -> View)
 
-protocol ___VARIABLE_viperModuleName___PresenterToViewProtocol: class {
+protocol ___VARIABLE_viperModuleName___PresenterToViewProtocol: AnyObject {
 
 }
 
@@ -20,7 +20,7 @@ protocol ___VARIABLE_viperModuleName___PresenterToInteractorProtocol {
 
 // MARK: - Interactor Output (Interactor -> Presenter)
 
-protocol ___VARIABLE_viperModuleName___InteractorToPresenterProtocol: class {
+protocol ___VARIABLE_viperModuleName___InteractorToPresenterProtocol: AnyObject {
 
 }
 
