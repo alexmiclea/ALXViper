@@ -7,7 +7,7 @@ class ___VARIABLE_viperModuleName___Presenter {
     // MARK: - Properties
 
     weak var view: ___VARIABLE_viperModuleName___PresenterToViewProtocol?
-    var interactor: ___VARIABLE_viperModuleName___Interactor?
+    var interactor: ___VARIABLE_viperModuleName___PresenterToInteractorProtocol?
     var router: ___VARIABLE_viperModuleName___PresenterToRouterProtocol?
 
 }
