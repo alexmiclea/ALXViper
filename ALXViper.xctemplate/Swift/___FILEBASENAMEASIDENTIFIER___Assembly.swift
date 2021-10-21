@@ -11,6 +11,7 @@ struct ___VARIABLE_viperModuleName___Assembly {
         viewController.presenter = presenter
         presenter.router = ___VARIABLE_viperModuleName___Router()
         presenter.view = viewController
+        presenter.interactor = interactor
         interactor.presenter = presenter
         return viewController
     }
